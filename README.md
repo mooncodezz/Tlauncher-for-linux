@@ -13,7 +13,7 @@
 *******************************************
 
 ## How To play
-`sudo ./tlauncher.sh`
-or
+`sudo ./tlauncher.sh`  
+or  
 `sudo bash ./tlauncher.sh`
 
