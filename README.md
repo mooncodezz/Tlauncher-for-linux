@@ -12,8 +12,5 @@
 
 *******************************************
 
-## Run Setupscript 
-./setup.sh
-
 ## How To play
 ./tlauncher.sh
