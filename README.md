@@ -8,7 +8,7 @@
 `sudo pacman -S jdk-openjdk`
 
 #### For Fedora, Oracle, RedHat, and more(dnf)
-`su -c "yum install java-1.8.0-openjdk"`
+`yum install java-1.8.0-openjdk`
 
 *******************************************
 
